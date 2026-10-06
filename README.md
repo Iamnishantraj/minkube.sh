@@ -1,0 +1,1 @@
+# minkube.sh
